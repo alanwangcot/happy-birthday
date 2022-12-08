@@ -1,9 +1,9 @@
 {
   "greeting": "Hey",
   "name": "Hermia",
-  "greetingText": "今日係2022年12月9日，壬寅年，虎壬子月，丙申日。",
-  "wishText": "茫茫人海知己难寻，世间造化弄人，与你分离心中怀念，只得发此祝福，林晓雯，要开心啊！",
-  "imagePath": "img/pic1.png",
+  "greetingText": "今天是2022年12月9日，壬寅年，虎壬子月，丙申日。",
+  "wishText": "茫茫人海知己难寻，世间造化弄人，与你分离心中怀念，只得发此祝福，林晓雯，要开心呀！",
+  "imagePath": "img/pic.png",
   "text1": "是你的生日，耶！！ :D",
   "textInChatBox": "生日快乐！",
   "sendButtonLabel": "发送",
@@ -12,12 +12,12 @@
   "text4": "要给你一个特别的....",
   "text4Adjective": "生日礼物",
   "text5Entry": "因为",
-  "text5Content": "最最特别的人当然要配特别的礼物㗎！",
+  "text5Content": "最特别的人当然要配特别的礼物！",
   "smiley": ":)",
   "bigTextPart1": "所",
   "bigTextPart2": "以...",
   "wishHeading": "生！日！快！樂！",
-  "outroText": "好了，是不是以为就这样结束了？当然没有！快来微信找我领第二部分礼物！",
+  "outroText": "是不是以为就这样结束了？当然没有！快来找我领剩下的！",
   "replayText": "想再看一遍吗？点一下这里就好哦~",
   "outroSmiley": ":)"
 }
